@@ -7,12 +7,12 @@ Structure this repository for use by QA to collect --
     - Functional Specifications (descriptions of specific functions)
     - Technical Specifications (descriptions of technical implimentations)
   - Historical Information
-    -- Sign Off Documents
+    - Sign Off Documents
   - Test Scripts
-    -- Manual
-    -- Automated
+    - Manual
+    - Automated
   - Templates
-    -- Test Script Template
-    -- Bug Report Template
-    -- Sign Off Template
+    - Test Script Template
+    - Bug Report Template
+    - Sign Off Template
 
